@@ -2,7 +2,7 @@
 
 Software Engineer + XAUUSD Prop Trader
 
-I build tamper-proof systems, then trade markets I can't control.
+Building secure blockchain systems, multi-tenant SaaS, and disciplined trading infrastructure.
 
 `3+ Yrs Coding` | `Team Lead x4` | `1.5% Risk Discipline` | `4x Funded Trader`
 
