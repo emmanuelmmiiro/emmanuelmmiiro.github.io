@@ -10,4 +10,4 @@ Building secure blockchain systems, multi-tenant SaaS, and disciplined trading i
 1. **GitHub Profile:** [github.com/emmanuelmmiiro](https://github.com/emmanuelmmiiro)  
 2. **Trade Proof - $40K Verified:** [FundingPips Track Record](https://github.com/emmanuelmmiiro/My-verified-FundingPips-track-record)
 
-3. **CV PDF:** <a href="Mmiiro_Emmanuel_software_Engineer.pdf" target="_blank">Download CV</a>
+3. **CV PDF:** <a href="Mmiiro_Emmanuel1_software_Engineer.pdf" target="_blank">Download CV</a>
