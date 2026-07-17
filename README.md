@@ -17,8 +17,9 @@ Building data-driven solutions, secure SaaS platforms, and process improvements 
 ### FEATURED WORKS
 1. **Teacher Effectiveness and Learner Achievement (GOU)** -   
    🔗 [https://telaschool.org/auth/login]
-2. ** Last Mile Condom Distribution (GOU)** - [https://last-pi.vercel.app] 
-   🔗 [https://yourlink2.com]
+
+2. ** Last Mile Condom Distribution (GOU)** -
+   🔗 [https://last-pi.vercel.app]
 3. **[Website/Project Name 3]** - [Short 1-line description]  
    🔗 [https://yourlink3.com]
 4. **[Website/Project Name 4]** - [Short 1-line description]  
