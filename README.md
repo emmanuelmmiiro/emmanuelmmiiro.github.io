@@ -1,24 +1,27 @@
 # MMIIRO EMMANUEL
 
-Software Engineer + XAUUSD Prop Trader
+**Business Analyst | Data Analyst | Software Engineer**
 
-Building secure blockchain systems, multi-tenant SaaS, and disciplined trading infrastructure.
+Building data-driven solutions, secure SaaS platforms, and process improvements for finance and tech teams.
 
-`3+ Yrs Coding` | `Team Lead x4` | `1.5% Risk Discipline` | `4x Funded Trader`
+**Core Skills:** `SQL` | `Power BI` | `Python` | `Requirements Gathering` | `Process Mapping` | `SaaS` | `APIs`
+**Experience:** `3+ Years` | `Team Lead x4` | `4x Funded Trader - Risk Discipline`
 
-**Proof & Links:**  
-1. **GitHub Profile:** [github.com/emmanuelmmiiro](https://github.com/emmanuelmmiiro)  
-2. **Trade Proof - $40K Verified:** [FundingPips Track Record](https://github.com/emmanuelmmiiro/My-verified-FundingPips-track-record)
+### PROOF & LINKS
+1. **GitHub:** [github.com/emmanuelmmiiro](https://github.com/emmanuelmmiiro)
+2. **LinkedIn:** [linkedin.com/in/emmanuelmmiiro](https://linkedin.com/in/emmanuelmmiiro) 
+3. **Portfolio/CV:** [Link your CV or Portfolio site]
 
-3. **FEATURED WORKS:**
-4.  <a " https://telaschool.org/auth/login)">Download CV</a>
+### FEATURED WORKS
+1. **[Website/Project Name 1]** - [Short 1-line description]  
+   🔗 [https://yourlink1.com]
+2. **[Website/Project Name 2]** - [Short 1-line description]  
+   🔗 [https://yourlink2.com]
+3. **[Website/Project Name 3]** - [Short 1-line description]  
+   🔗 [https://yourlink3.com]
+4. **[Website/Project Name 4]** - [Short 1-line description]  
+   🔗 [https://yourlink4.com]
 
-  1  <a href="Mmiiro_Emmanuel1_software_Engineer.pdf" target="_blank">Download CV</a>
-
-  2  <a href="Mmiiro_Emmanuel1_software_Engineer.pdf" target="_blank">Download CV</a>
-
-  3  <a href="Mmiiro_Emmanuel1_software_Engineer.pdf" target="_blank">Download CV</a>
-
-  4  <a href="Mmiiro_Emmanuel1_software_Engineer.pdf" target="_blank">Download CV</a>
-
-  5  <a href="Mmiiro_Emmanuel1_software_Engineer.pdf" target="_blank">Download CV</a>
+---
+Open for work. 
+Based in Kampala, Uganda.
