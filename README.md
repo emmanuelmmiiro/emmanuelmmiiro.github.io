@@ -5,12 +5,14 @@
 Building data-driven solutions, secure SaaS platforms, and process improvements for finance and tech teams.
 
 **Core Skills:** `SQL` | `Power BI` | `Python` | `Requirements Gathering` | `Process Mapping` | `SaaS` | `APIs`
+
 **Experience:** `3+ Years` | `Team Lead x4` | `4x Funded Trader - Risk Discipline`
 
 ### PROOF & LINKS
 1. **GitHub:** [github.com/emmanuelmmiiro](https://github.com/emmanuelmmiiro)
-2. **LinkedIn:** [linkedin.com/in/emmanuelmmiiro](https://linkedin.com/in/emmanuelmmiiro) 
-3. **Portfolio/CV:** [Link your CV or Portfolio site]
+
+2. **LinkedIn:** [linkedin.com/in/emmanuelmmiiro](https://www.linkedin.com/in/mmiiro-emmanuel-061649415) 
+
 
 ### FEATURED WORKS
 1. **[Website/Project Name 1]** - [Short 1-line description]  
