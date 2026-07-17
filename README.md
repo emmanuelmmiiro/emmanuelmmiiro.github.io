@@ -21,7 +21,7 @@ Building data-driven solutions, secure SaaS platforms, and process improvements 
 2. **Last Mile Condom Distribution (GOU)** -
    🔗 [https://last-pi.vercel.app]
 
-3. **Tourism Information Management System**- 
+3. **Tourism Information Management System**-
    🔗 [https://tims.planetdevarea.com]
 
 4. **Desert Locust Control Organization for Eastern Africa** -   
