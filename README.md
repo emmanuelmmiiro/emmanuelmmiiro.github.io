@@ -15,18 +15,11 @@ Building data-driven solutions, secure SaaS platforms, and process improvements 
 
 
 ### FEATURED WORKS
-1. **Teacher Effectiveness and Learner Achievement (GOU)** -   
-   🔗 [https://telaschool.org/auth/login]
+1. **[Teacher Effectiveness and Learner Achievement (GOU)](https://telaschool.org/auth/login)** - National teacher assessment platform
+2. **[Last Mile Condom Distribution (GOU)](https://last-pi.vercel.app)** - Health logistics and distribution tracking system
+3. **[Tourism Information Management System](https://tims.planetdevarea.com)** - Data portal for tourism stakeholders
+4. **[Desert Locust Control Organization for Eastern Africa](https://dlco-ea.org)** - Regional surveillance and reporting platform
 
-2. **Last Mile Condom Distribution (GOU)** -
-   🔗 [https://last-pi.vercel.app]
+Open for work.
 
-3. **Tourism Information Management System**-
-   🔗 [https://tims.planetdevarea.com]
-
-4. **Desert Locust Control Organization for Eastern Africa** -   
-   🔗 [https://dlco-ea.org]
-
----
-Open for work. 
 Based in Kampala, Uganda.
