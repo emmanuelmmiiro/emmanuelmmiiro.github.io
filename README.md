@@ -1,12 +1,12 @@
 # MMIIRO EMMANUEL
 
-**Business Analyst | Data Analyst | Software Engineer**
+**Business Analyst** | **Data Analyst** | **Software Engineer**
 
 Building data-driven solutions, secure SaaS platforms, and process improvements for finance and tech teams.
 
-**Core Skills:** `SQL` | `Power BI` | `Python` | `Requirements Gathering` | `Process Mapping` | `SaaS` | `APIs`
+**Core Skills:** | `SQL` | `Power BI` | `Python` | `Requirements Gathering` | `Process Mapping` | `SaaS` | `APIs`
 
-**Experience:** `3+ Years` | `Team Lead x4` | `4x Funded Trader - Risk Discipline`
+**Experience:** | `3+ Years` | `Team Lead x4` | `4x Funded Trader - Risk Discipline`
 
 ### PROOF & LINKS
 1. **GitHub:** [github.com/emmanuelmmiiro](https://github.com/emmanuelmmiiro)
